@@ -14,9 +14,9 @@
 			name: 'Microservice Finding',
 			env: 'dev', // prod, qa, dev
 			port: {
-				dev: process.env.PORT || 4011,
-				qa: process.env.PORT || 5011,
-				prod: process.env.PORT || 3011,
+				dev: process.env.PORT || 4020,
+				qa: process.env.PORT || 5020,
+				prod: process.env.PORT || 3020,
 			},
 
 		/*
